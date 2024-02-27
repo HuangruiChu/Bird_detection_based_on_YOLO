@@ -1,2 +1,2 @@
 # Bird_detection_based_on_YOLO
-基于yolo的鸟类检测
+
